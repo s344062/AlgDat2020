@@ -7,9 +7,9 @@ public class HelloWorld {
             System.out.println(i);
         }
 
-        System.out.println("Petra Teller til femten");
-        for (int i=11; i<=15; ++i){
-            System.out.println("Petra sier "+ i);
+        System.out.println("Andre teller til tretti");
+        for (int i=11; i<30; ++i){
+            System.out.println("Andre teller "+ i);
         }
     }
 }
